@@ -2,6 +2,9 @@
 
 This project focuses on analyzing and understanding the **customer churn problem at Insider**.
 
+To dive deeper into the concept and inspiration behind this project, check out my detailed Medium article:  
+👉 [Customer Psychology: Silence](https://ydogu159.medium.com/customer-psychology-silence-e84b6b73ac68)
+
 Customer churn — when users stop using a product or service — is a critical issue for any SaaS company aiming to grow sustainably. In this project, we examined Insider’s datasets to uncover patterns and signals that could help predict and reduce churn.
 <p align="center">
   <img src="insider_presentation_images/insider_customer_churn_percentage.png"/>
