@@ -3,6 +3,13 @@
 This project focuses on analyzing and understanding the **customer churn problem at Insider**.
 
 Customer churn — when users stop using a product or service — is a critical issue for any SaaS company aiming to grow sustainably. In this project, we examined Insider’s datasets to uncover patterns and signals that could help predict and reduce churn.
+<p align="center">
+  <img src="insider_presentation_images/insider_customer_churn_percentage.png"/>
+</p>
+
+<p align="center">
+  <b>Status Of Customers </b>
+</p>
 
 ---
 
@@ -25,6 +32,15 @@ We analyzed multiple datasets provided by Insider, including:
 - **Engagement metrics** like support requests, product usage, and newsletter interaction  
 
 We then compared churned and retained customers to spot trends, inconsistencies, and opportunities for improvement.
+
+<p align="center">
+  <img src="insider_presentation_images/survey_of_churn_customers.png" alt="Churn Customers Correlation"  width="50%"/>
+  <img src="insider_presentation_images/survey_of_not_churn_customers.png" alt="Not Churn Customers Correlation" width="50%"/>
+</p>
+
+<p align="center">
+  <b>Correlation Analysis Of Customer Surveys</b>
+</p>
 
 ---
 
