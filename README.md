@@ -40,7 +40,6 @@ We then compared churned and retained customers to spot trends, inconsistencies,
 
 <p align="center">
   <em>Correlation Analysis of Customer Surveys</em><br>
-  <sub>Left: Churned Customers | Right: Not Churn Customers</sub>
 </p>
 
 ---
