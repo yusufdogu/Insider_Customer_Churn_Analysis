@@ -34,8 +34,8 @@ We analyzed multiple datasets provided by Insider, including:
 We then compared churned and retained customers to spot trends, inconsistencies, and opportunities for improvement.
 
 <p align="center">
-  <img src="insider_presentation_images/survey_of_churn_customers.png" alt="Churn Customers Correlation"  width="45%"/>
-  <img src="insider_presentation_images/survey_of_not_churn_customers.png" alt="Not Churn Customers Correlation" width="45%"/>
+  <img src="insider_presentation_images/survey_of_churn_customers.png" alt="Churn Customers"  width="45%"/>
+  <img src="insider_presentation_images/survey_of_not_churn_customers.png" alt="Not Churn Customers" width="45%"/>
 </p>
 
 <p align="center">
